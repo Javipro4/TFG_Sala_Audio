@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
+  m_Name: Space_2
+  m_EditorClassIdentifier: 
+  version: 1
+  sku: ojjxvtvduy6wrpsi7cuc6g3q
+  packageName: Museo Virtual Telecomunicaciones
+  thumbnail: {fileID: 2800000, guid: 74370a2a20f16426e9ec2e0699b63587, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: f24ebdea6c627c04e8e8c5dcce2a2cd8,
+    type: 2}
+  worldID: exndfwhdtstqzckwob5sr
+  scene: {fileID: 102900000, guid: f7e309730e49ac247b221e7280254c36, type: 3}
+  csharpAssembly: {fileID: 0}
+  embeddedPackageAssets: []
+  networkPrefabs: []
+  settings:
+    serverInstancingEnabled: 1
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 16

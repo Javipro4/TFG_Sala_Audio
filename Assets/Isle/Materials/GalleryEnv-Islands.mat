@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GalleryEnv-Islands
+  m_Shader: {fileID: 4800000, guid: 256a3841130d3304a8cfad28d44b1c7c, type: 3}
+  m_ValidKeywords:
+  - _BLENDING_OPAQUE
+  - _USE_NORMALMAP
+  - _USE_REFLECTION
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Opaque
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: dcb739c5a259e204eb26d653906e99e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7684b827d0e1cbc4db8eac928ac89387, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BlendingMode: 0
+    - _BumpMapScale: 1
+    - _DstBlend: 0
+    - _FresnelPower: 1
+    - _ReflectionFresnelPow: 1
+    - _ReflectionIntensity: 0.5
+    - _ReflectionMetallic: 0
+    - _ReflectionMode: 0
+    - _ReflectionRoughness: 2
+    - _SrcBlend: 1
+    - _UseFresnel: 0
+    - _UseLightMap: 0
+    - _UseNormalMap: 1
+    - _UseReflection: 1
+    - _UseShadowMap: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 0.891108, b: 0.8537736, a: 1}
+    - _FresnelColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ProbeBoxMax: {r: 10, g: 10, b: 10, a: 0}
+    - _ProbeBoxMin: {r: -10, g: 0, b: -10, a: 0}
+    - _ProbePosition: {r: 0, g: 1, b: 0, a: 1}
+    - _ReflectionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
