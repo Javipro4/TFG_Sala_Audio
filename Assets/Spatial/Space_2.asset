@@ -16,7 +16,7 @@ MonoBehaviour:
   sku: ojjxvtvduy6wrpsi7cuc6g3q
   packageName: Museo Virtual Telecomunicaciones
   thumbnail: {fileID: 2800000, guid: 74370a2a20f16426e9ec2e0699b63587, type: 3}
-  savedProjectSettings: {fileID: 11400000, guid: f24ebdea6c627c04e8e8c5dcce2a2cd8,
+  savedProjectSettings: {fileID: 11400000, guid: e75cae3ab9a20604baf7004381ef56fa,
     type: 2}
   worldID: exndfwhdtstqzckwob5sr
   scene: {fileID: 102900000, guid: f7e309730e49ac247b221e7280254c36, type: 3}

@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SalaAudio/Scenes/SalaAudio_Main.unity
     guid: 5b312da3195da3648bf914d39d237462
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 56851163a8009e84eaaad0d219994495,
+      type: 2}
