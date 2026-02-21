@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_3
+  m_Name: Space_4
   m_EditorClassIdentifier: 
   version: 1
-  sku: n9w2sxyg18ap7ejayar4q9vb
-  packageName: Sala Audio Museo Prueba1
+  sku: 06gppq49e7hem351q1mz2jgd
+  packageName: SalaAudio_Javi_1
   thumbnail: {fileID: 2800000, guid: 4d3eb914d5d202040821b216412cddf7, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: e75cae3ab9a20604baf7004381ef56fa,
     type: 2}
   teamID: 
-  worldID: f2706s7o3u96m8cxbqh9h
+  worldID: 
   scene: {fileID: 102900000, guid: 5b312da3195da3648bf914d39d237462, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
