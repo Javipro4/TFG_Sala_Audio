@@ -1,5 +1,5 @@
-# Spatial Unity SDK Starter Template
+# Sala Audio - Museo Virtual
 
-A template to get you started building environments for Spatial.
+Este trabajo de final de grado consiste en un entorno virtual que desarrollé en Unity y Spatial. Esta última herramienta es una plataforma de metaverso que cerró servidores, de modo que ya no se puede acceder al espacio virtual. De todas formas, dejo un link a un vídeo que documenta un recorrido por el espacio usando gafas VR.
 
-Read more here: https://docs.spatial.io
+- [Vídeo demostrativo](https://drive.google.com/file/d/1EZwrtHxOIsbhjRmGHnN5ocQ1ePvbzLkf/view?usp=sharing)
